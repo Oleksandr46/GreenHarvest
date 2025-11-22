@@ -1,11 +1,11 @@
 {
-  "name": "Green-Harvest",
+  "name": "Local-repositories",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Green-Harvest/",
+    "build": "vite build --base=/Local-repositories/",
     "preview": "vite preview"
   },
   "devDependencies": {
